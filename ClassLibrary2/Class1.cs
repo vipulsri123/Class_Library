@@ -1,5 +1,5 @@
 ﻿using System;
-
+#
 namespace ClassLibrary1
 {
     public class calculation
@@ -19,6 +19,7 @@ namespace ClassLibrary1
         public Int32 div(Int32 a, Int32 b)
         {
             return a / b;
+        
         }
     }
 }
